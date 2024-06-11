@@ -4,11 +4,11 @@ import "./Meme.css"
 export default function Meme(){
     return(
         <main className="main">
-            <form>
+            <div>
                 <input type="text" placeholder="Header" className="Header"/>
                 <input type="text" placeholder="Footer" className="Footer"/>
                 <button className="button">Get a new image</button>
-            </form>
+            </div>
         </main>
     )
 }

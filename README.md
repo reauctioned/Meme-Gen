@@ -1,2 +1,2 @@
 # Meme-Gen
-Interactive Meme generator project made with react
+Interactive Meme generator project made with React

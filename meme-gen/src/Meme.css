@@ -42,6 +42,11 @@ border-radius: 5px;
 background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
 }
 
+.image-div{
+    margin-top: 20px;
+    max-width: 100%;
+}
+
 
 @media screen and (max-width: 767px) {
     .Header {
